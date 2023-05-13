@@ -16,7 +16,7 @@ The technology used is:
 Only the default libraries are used.
 
 ## Input
-Type in the bash as follows to run the application:
+Type in the bash as follows to run the application inside the Project folder:
 ```bash
 python3 parser.py /your-application-dir
 ```
