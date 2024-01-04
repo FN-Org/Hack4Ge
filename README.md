@@ -4,9 +4,12 @@ Team: AFN-Security
 
 Members: Alessandro Poggi, Federico Garau, Nicolò Trebino
 
+Look at this GitHub repository for more information about the project: https://github.com/talos-security/Hack4Ge-2023
+
+
 ## Requirments
 
-This application is writtern in Python.
+This application is written in Python.
 The technology used is:
 
 -Python3.x
@@ -23,7 +26,7 @@ python3 parser.py /your-application-dir
 
 ## Output
 The program will print on the console files with SQLI or SSTI vulnerability.
-The output should be like as follows:
+The output should be as follows:
 ```
 FILE   ROW   VULNERABILITY   
 /home/project/test-ssti.py approx. 34 STTI
