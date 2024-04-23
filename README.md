@@ -7,12 +7,12 @@ Members: Alessandro Poggi, Federico Garau, Nicolò Trebino
 Look at this GitHub repository for more information about the project: https://github.com/talos-security/Hack4Ge-2023
 
 
-## Requirments
+## Requirements
 
 This application is written in Python.
 The technology used is:
 
--Python3.x
+- Python3.x
 
 ## Setup
 
